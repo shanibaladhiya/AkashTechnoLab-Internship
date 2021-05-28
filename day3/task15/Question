@@ -1,0 +1,16 @@
+Take starting number and ending number from the user and print following series.
+
+Output :-
+Enter starting number : 30
+Enter ending number : 0
+ 30
+ 27
+ 24
+ 21
+ 18
+ 15
+ 12
+ 9
+ 6
+ 3
+ 0
